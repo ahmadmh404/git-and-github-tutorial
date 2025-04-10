@@ -25,4 +25,4 @@
 
 -- git log: to view all commits made. 
 
--- change the branch name: git branch -m old new 
+-- change the branch name: git branch -m old new  
