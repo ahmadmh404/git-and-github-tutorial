@@ -21,4 +21,8 @@
 -- add all new or modified files to the repo.
 
 -- git add .: the dot (.) will add all the files new, modified 
-    or deleted to to the git trcking. 
+    or deleted to to the git trcking.
+
+-- git log: to view all commits made. 
+
+-- change the branch name: git branch -m old new 
