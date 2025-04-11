@@ -1,3 +1,3 @@
-## Hello, Git
+# Git and GitHub Tutorial
 
-## this content is only for branch move-fast
+## This is a tutorial for learning Git and GitHub. It includes a simple React project to practice with Git.
