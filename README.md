@@ -1,5 +1,6 @@
-## Hello, Git
+<<<<<<< move-faster
+=======
+# Git and GitHub Tutorial
 
-## this data is only for branch move-faster
-
-#### This change will only be available in the move-faster branch.
+## This is a tutorial for learning Git and GitHub. It includes a simple React project to practice with Git.
+>>>>>>> move-fast
