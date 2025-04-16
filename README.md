@@ -317,6 +317,39 @@ git merge main
 
 - AFter choosing the prefered lines from your codes click merge and the conflict is gone.
 
+$$
+revert from commits:
+
+  - to remove all commits from the record starting from a <commit-hash> commit to the end we will use:
+
+  ```bash
+  git reset <commit-hash>
+```
+
+- but there are theree types of reset:
+1- soft reset: all the commits after this commit hash will be removed from the record and still in staged mode, with the command:
+
+```bash
+git reset --soft <commit-hash>
+```
+
+note: staged changes are changes that you added to the tracking mode by running:
+
+```bash
+git add .
+```
+
+2- Mixed reset: this is the default one, and required no flags, and this moves the changes to your working directory and `you` should add those changes, and this is the command:
+```bash
+git reset <commit-hash>
+```
+
+3-Hard reset: this will discard all changes and there commits, with this command:
+```bash
+git reset --hard <commit-hash>
+```
+
 this is coming from `al branch`
 
 Yo!, i am here!
+$$
