@@ -316,3 +316,5 @@ git merge main
   lines
 
 - AFter choosing the prefered lines from your codes click merge and the conflict is gone.
+
+this is coming from `al branch`
