@@ -227,11 +227,7 @@ Git conflicts are often misunderstood. Here's a clear explanation of when confli
 When a conflict occurs, Git marks the file with conflict markers:
 
 ```text
-<<<<<<< Branch-A
-Your changes in Branch A
-=======
 Different changes in Branch B
->>>>>>> Branch-B
 ```
 
 ### Resolving Conflicts
