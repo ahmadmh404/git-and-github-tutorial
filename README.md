@@ -317,6 +317,6 @@ git merge main
 
 - AFter choosing the prefered lines from your codes click merge and the conflict is gone.
 
-Hi Yo, I am Ahmad welcome to my Git guide.
+this is coming from `al branch`
 
 Yo!, i am here!
