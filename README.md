@@ -316,3 +316,7 @@ git merge main
   lines
 
 - AFter choosing the prefered lines from your codes click merge and the conflict is gone.
+
+Hi Yo, I am Ahmad welcome to my Git guide.
+
+Yo!, i am here!
